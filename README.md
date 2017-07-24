@@ -1,5 +1,8 @@
-# 国际人数据分析
+# 国际人网站访客分析
 ## 图表
+|浏览量(PV) |	访客数(UV) |	IP数 |	跳出率 |	平均访问时长 |
+|2,817	   |    192      |	186 |	26.48%|	0:09:41     |
+## 图片
+![](![](http://ww1.sinaimg.cn/mw690/006zNfpngy1fhv6pid8ipj30rp0c10t6.jpg))
+## 总结
 
-## 图
-![](http://ww1.sinaimg.cn/large/006zNfpngy1fhv3ooq87dj30ev09xwel.jpg)
